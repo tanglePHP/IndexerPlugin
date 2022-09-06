@@ -2,10 +2,10 @@
 /**
  * Class NFT
  *
- * @package      tanglePHP\indexer-plugin\Api\v1\Response
+ * @package      tanglePHP\IndexerPlugin\Api\v1\Response
  * @author       Stefan Braun <stefan.braun@tanglePHP.com>
  * @copyright    Copyright (c) 2022, StefanBraun
- * @version      2022.08.22-1219
+ * @version      2022.09.06-1244
  */
 final class NFT extends Basic {
 }

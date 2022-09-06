@@ -15,10 +15,10 @@ use tanglePHP\Core\Helper\Converter;
 /**
  * Class v1
  *
- * @package      tanglePHP\indexer-plugin
+ * @package      tanglePHP\IndexerPlugin
  * @author       Stefan Braun <stefan.braun@tanglePHP.com>
  * @copyright    Copyright (c) 2022, StefanBraun
- * @version      2022.08.26-1126
+ * @version      2022.09.06-1244
  */
 final class v1 extends AbstractPlugin {
   /**
